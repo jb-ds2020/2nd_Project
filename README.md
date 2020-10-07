@@ -10,7 +10,7 @@ In this repository you can find our ideas and models with which we tried to solv
 
 - After the cleansing and EDA we choose three machine learning approaches [Decision Trees](https://github.com/jb-ds2020/2nd_Project/blob/main/2020-LendingClub_DecisionTrees.ipynb "Decision Trees"), [Classification](https://github.com/jb-ds2020/2nd_Project/blob/main/2020-LendingClub_ClassificationMethods.ipynb "Classification") and [Ensemble Methods](https://github.com/jb-ds2020/2nd_Project/blob/main/2020-LendingClub_EnsembleMethods.ipynb "Ensemble Methods") . You can find one notebook for each of them.
 
-- At least we tried to build a [regression (OLS)](https://github.com/jb-ds2020/2nd_Project/blob/main/2020-LendingClub_OLS-int_rate.ipynb "regression (OLS)") to predict the ‘int_rate’ of the credits. It seems to be very important to choose other features to explain this label. In our model we had an R2 below 15%. Since everything was technically correct, it must be the features. ;-)
+- At least we tried to build a [regression (OLS)](https://github.com/jb-ds2020/2nd_Project/blob/main/2020-LendingClub_OLS_int_rate.ipynb "regression (OLS)") to predict the ‘int_rate’ of the credits. It seems to be very important to choose other features to explain this label. In our model we had an R2 below 15%. Since everything was technically correct, it must be the features. ;-)
 
 - At least you can find a presentation held on 08th October in front of non technical but data interested people.
 
