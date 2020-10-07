@@ -15,8 +15,8 @@ In this repository you can find our ideas and models with which we tried to solv
 - At least you can find a presentation held on 08th October in front of non technical but data interested people.
 
 ## Problem definition in one sentence:
-**Predict the default credits avoid false positives**
-## Problem definition given by Lenders Club on [kaggle.com](http://www.kaggle.com "kaggle.com") and [neuefische DS Bootcamp](http://https://www.neuefische.de/weiterbildung/data-science "neuefische DS Bootcamp"):
+**Predict the default credits and avoid false positives**
+## Problem definition given by Lending Club on [kaggle.com](http://www.kaggle.com "kaggle.com") and [neuefische DS Bootcamp](http://https://www.neuefische.de/weiterbildung/data-science "neuefische DS Bootcamp"):
 How to choose the performance metrics? - well the model (whichever you pick) will be used to determine who should be approved for a loan and who shouldn’t, denying the loan to a client who will end up paying in full (false positives) represents a loss, but because interest is usually only a portion of principal the company will most likely be more comfortable not taking the chance when the risk is not to get reimbursed at all and lose the entire principal which represents a higher amount. Thus the main concern here is to avoid approving somebody who won't be able to repay or in other words avoid false negatives. This is achieved by a model with a high recall rate. What would be the right performance metric - precision, recall, accuracy, F1 score, or something else?
 
 ## Future work
@@ -25,5 +25,4 @@ How to choose the performance metrics? - well the model (whichever you pick) wil
 
 ------------
 
-**We had great fun working together on this project and are curious to hear what you have to say. Please do not hesitate to contact us if you have any questions. Hope you enjoy it too.
-**
+**We had great fun working together on this project and are curious to hear what you have to say. Please do not hesitate to contact us if you have any questions. Hope you enjoy it too.**
